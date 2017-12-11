@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{BBFBB635-A681-4330-907B-539091362596}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TelemetryRecorderClient/App.xaml">
+    <Files>
+      <File FileName="TelemetryRecorderClient/App.xaml" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TelemetryRecorderClient.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.46F0A194-4D71-482B-A129-E6773D661485">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TelemetryRecorderClient.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
