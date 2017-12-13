@@ -12,6 +12,8 @@
 bin/
 gen/
 out/
+obj/
+*.userprefs
 
 # Gradle files
 .gradle/
